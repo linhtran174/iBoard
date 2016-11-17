@@ -14,4 +14,6 @@ node server.js
 That will not start the SocketIO server.
 
 Open your browser and go to:
+```
 http://localhost:8124
+```
